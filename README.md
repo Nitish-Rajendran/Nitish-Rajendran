@@ -11,7 +11,7 @@ Frontend: React.js
 
 Backend: Node.js, Express, Flask, REST API
 
-Databases: MongoDB, MongoDB
+Databases: MongoDB, MySQL
 
 Other Fun Stuff: Automation( using **zapier** ), DevOps basics, and trying my best to keep up with the latest in AI/ML ( also **TransferML** ). !
 

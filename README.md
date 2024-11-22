@@ -21,7 +21,6 @@
 
 - 😄 Pronouns: Techie
 
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Information Technology
@@ -46,5 +45,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitish-Rajendran" alt="Nitish" /></a> </p>
 
 ## Contribution Graph
-
+<br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish-Rajendran&bg_color=f5f5f5&color=222222&line=0066cc&point=ff4500&area=true&hide_border=true" alt="Nitish's github activity graph"></a>

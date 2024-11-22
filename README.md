@@ -40,7 +40,8 @@
 
 ## Nitish's GitHub Stats
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=Nitish-Rajendran&theme=dark&show_icons=true&&hide=issues,contribs)
+
+![STATS](https://github-readme-stats.vercel.app/api?username=Nitish-Rajendran&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish-Rajendran&bg_color=f5f5f5&color=222222&line=0066cc&point=ff4500&area=true&hide_border=true" alt="Nitish's github activity graph"></a>

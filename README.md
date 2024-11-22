@@ -7,9 +7,6 @@
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                           
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish-Rajendran&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitish-Rajendran" alt="Nitish" /></a> </p>
 
 
 - 🌱 I’m currently learning DSA
@@ -23,6 +20,12 @@
 - 📫 How to reach me :<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Nitish--Rajendran/)
 
 - 😄 Pronouns: Techie
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish-Rajendran&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitish-Rajendran" alt="Nitish" /></a> </p>
 
 
 ## 🚀 About Me

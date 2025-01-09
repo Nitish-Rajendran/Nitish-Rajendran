@@ -9,7 +9,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                           
 <h2>Hi people!</h2>
 <br/>
-I'm Nitish, an aspiring engineering student who is looking forward to contribute to open source projects with fellow fellow developers put there
+I'm Nitish, an aspiring engineering student who is looking forward to contribute to open source projects with fellow fellow developers out there
 <br/>
 
 - 🌱 I’m currently learning DSA

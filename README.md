@@ -14,13 +14,13 @@ I'm Nitish, an aspiring engineering student who is looking forward to contribute
 
 - 🌱 I’m currently learning DSA
 
-- 👯 I’m looking to collaborate on ML/AI automation
+- 👯 I’m looking to collaborate on AI/ML automation
 
 - 🤔 I’m looking for help with Placements in Zoho Corporations
 
 - 💬 Ask me about Tech
 
-- 📫 How to reach me :<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Nitish--Rajendran/)
+- 📫 How to reach me :<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Nitish--Rajendran/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/[@YourMediumUsername](https://medium.com/@nitishrajendran.work))
 
 - 😄 Pronouns: Techie
 
